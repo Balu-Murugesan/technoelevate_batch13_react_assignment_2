@@ -1,0 +1,15 @@
+.maindiv {
+  margin-left: 30%;
+  margin-top: 7%;
+  width: 400px;
+}
+button {
+  background-color: burlywood;
+  border: none;
+  outline: none;
+  font-size: large;
+  color: green;
+}
+h1 {
+  text-align: center;
+}
